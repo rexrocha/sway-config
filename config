@@ -21,7 +21,7 @@ set $menu wmenu-run
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/jp/Downloads/desktop.jpg fill
+output * bg /home/jp/Downloads/desktop.jpg stretch
 #
 # Example configuration:
 #
